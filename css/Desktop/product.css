@@ -1,0 +1,7 @@
+div.products {
+  flex-flow: row wrap;
+  div.product {
+    width: 30%;
+    min-width: 400px;
+  }
+}
